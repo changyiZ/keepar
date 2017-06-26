@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="muscle_man_001" size="600.000000 550.000000" />
+    <ImageTarget name="dota2_sb_by_risq55-d64r76z" size="300.000000 347.529816" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Vuforia/Scripts/ImageTargetBehaviour.cs">
+    <Files>
+      <File FileName="Assets/Vuforia/Scripts/DefaultTrackableEventHandler.cs" Line="112" Column="23" />
+      <File FileName="Assets/OnButtonClickListener.cs" Line="20" Column="68" />
+      <File FileName="Assets/CharacterController.cs" Line="59" Column="2" />
+      <File FileName="Assets/scripts/LeanTouch/Examples/Scripts/LeanTapSelect.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/LeanTouch/Examples/Scripts/LeanSwipeDirection4.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/LeanTouch/Examples/Scripts/LeanPressSelect.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/LeanTouch/Scripts/LeanSelectable.cs" Line="1" Column="1" />
+      <File FileName="Assets/Vuforia/Scripts/VuforiaBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/ApplicationManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/PanelManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/OnDiscussButtonClicked.cs" Line="1" Column="1" />
+      <File FileName="Assets/Vuforia/Scripts/ImageTargetBehaviour.cs" Line="18" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
